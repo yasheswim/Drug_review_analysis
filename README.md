@@ -8,3 +8,5 @@ Scrapy, NLTK for text preprocessing and text normalization.
 Beautiful_soup and Requests library to acquire content from web using URL authorization and parse though the HTmL tags.
 
 Streamlit application has been used for model deployment. The web application displays possible side effects of the drug and its effectivess percentage.
+
+CSV file obtained after scraping drug reviews from the website available in the repository
